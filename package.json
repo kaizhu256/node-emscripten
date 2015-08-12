@@ -1,0 +1,5 @@
+{
+    "description": "npm installer for emscripten binaries with zero dependencies",
+    "name": "emscripten",
+    "version": "2015.7.1"
+}
